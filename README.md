@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ocular-d/md-linkcheck-action">
-    <img src="assets/sven-round.png" alt="Logo" width="100" height="101">
+    <img src="assets/sven-round.png" alt="My face">
   </a> 
 </p>
 
@@ -33,7 +33,7 @@ Some tiny projects I work on, some of them are currently a bit out of date due t
 
 ## Stats
 
-![svx' Github Stats](https://github-readme-stats.vercel.app/api?username=svx&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) &nbsp; ![ocular-d' Github Stats](https://github-readme-stats.vercel.app/api?username=ocular-d&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![svx' Github Stats](https://github-readme-stats.vercel.app/api?username=svx&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ## Find me around the web
 
