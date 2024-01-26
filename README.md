@@ -1,12 +1,3 @@
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/ocular-d/md-linkcheck-action">
-    <img src="assets/sven-round.png" alt="My face">
-  </a>
-</p>
-
 # Hi, I'm Sven
 
 I'm a technical person passionate about everything related to Developer Experience (DX), APIs, GitOps and technical documentation.
